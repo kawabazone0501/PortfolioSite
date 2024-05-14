@@ -68,3 +68,9 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
+
+.project-details-content img {
+    max-width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
